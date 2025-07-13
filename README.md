@@ -1,11 +1,28 @@
-# 💫 About Me
-Hello! I am **Srajan Singh**, a passionate and dedicated Bachelor of Computer Applications (BCA) student at United University, Jhalwa, Pryagraj, Uttar Pradesh. With a current CGPA of 7.1, I am committed to expanding my knowledge and skills in the field of computer science. 
 
-I have a strong foundation in various technical areas, including Data Structures and Algorithms (DSA), Operating Systems, Object-Oriented Programming (OOP), and Web Development. My technical skill set includes proficiency in programming languages such as C++, C, Python, JavaScript, and SQL, as well as experience with modern frameworks and technologies like React, NodeJS, and MongoDB.
+#🦚🐥 I am Srajan Singh
 
-Throughout my academic journey, I have successfully developed several projects, including a responsive Weather App, a dynamic E-learning System, and a To-Do List application, showcasing my ability to create user-friendly and efficient software solutions. I am also actively involved in extracurricular activities, having participated in workshops at IIT Kanpur, which further enhances my learning experience.
+🎓 BCA Student with a strong interest in full-stack development
 
-I am eager to connect with like-minded individuals and explore opportunities for collaboration in software development and technology. Thank you for visiting my portfolio!
+💻 MERN Stack Developer (MongoDB, Express.js, React.js, Node.js)
+
+🌐 Skilled in HTML, CSS, JavaScript, and modern frameworks
+
+🧠 Currently learning Data Structures & Algorithms using C++
+
+🛠️ Experienced with Git, Linux servers, WordPress, and cPanel
+
+🚀 Passionate about building responsive, user-focused web apps
+
+🌱 Always learning, exploring new technologies, and improving daily
+
+🤝 Open to collaboration, freelance work, and exciting new projects
+
+
+
+---
+# 👋 About Me
+Hi, I’m Srajan Singh, a BCA student and MERN Stack Developer. I love building clean, responsive web apps using React, Node.js, MongoDB, and Express.
+I’m also experienced in C++, Git, WordPress, and Linux servers. Always exploring new technologies and solving real-world problems through code.
 
 ---
 
