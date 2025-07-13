@@ -1,5 +1,5 @@
 
-#🦚🐥 I am Srajan Singh
+# 🦚🐥 I am Srajan Singh
 
 🎓 BCA Student with a strong interest in full-stack development
 
